@@ -1,0 +1,14 @@
+SELECT *
+FROM superstore
+LIMIT 5;
+
+SELECT item_name, price
+FROM superstore
+ORDER BY price;
+
+SELECT MAX(price)
+FROM superstore;
+
+SELECT price, item_name
+FROM superstore
+WHERE category="Kitchen Supplies";# SQL
