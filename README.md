@@ -1,1 +1,1 @@
- Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions.
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐒𝐐𝐋 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨! 𝐓𝐡𝐢𝐬 𝐜𝐨𝐝𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐞𝐱𝐚𝐦𝐩𝐥𝐞𝐬 𝐨𝐟 𝐒𝐐𝐋 𝐈'𝐯𝐞 𝐰𝐫𝐢𝐭𝐭𝐞𝐧. 𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐧𝐝 𝐫𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐢𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬.
